@@ -14,3 +14,4 @@
 - https://www.terraform.io: Write, Plan, and Create Infrastructure as Code
 - https://binderhub.readthedocs.io:  creating custom computing environments that can be used by many remote users
 - https://repo2docker.readthedocs.io:  tool to build, run, and push Docker images from source code repositories
+- https://aws.amazon.com/fargate/: AWS fargate  run containers without having to manage servers or clusters
